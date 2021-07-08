@@ -1,2 +1,10 @@
+### Agda ###
 *.agdai
+*.hi
+*.o
+*.agda#
+*.agda~
+.#*.agda
+./agda-stdlib
 MAlonzo/**
+_build
